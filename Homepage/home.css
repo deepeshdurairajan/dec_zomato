@@ -1,0 +1,27 @@
+body{
+    margin:auto
+}
+#header {
+    height: 60px;
+    border: 2px solid red
+}
+
+#search {
+    height: 400px;
+    background-image:url('https://www.wbcsd.org/var/site/storage/images/media/images/fresh_pa/80809-2-eng-GB/FRESH_PA_i1140.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-size:100% 400px;
+}
+
+#quicksearch {
+    height: 500px;
+    border: 2px solid blue
+}
+#logo{
+    height: 150px;
+    width:150px;
+    background-color:white;
+    border-radius: 50%;
+    margin:auto;
+}
